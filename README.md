@@ -1,0 +1,2 @@
+# GitRedux
+To follow book
