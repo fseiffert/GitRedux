@@ -4,3 +4,5 @@ This is sky text.
 More text for another commit.
 
 Some text for the second clone to commit.
+
+More text for the second clone to commit.
