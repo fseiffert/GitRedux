@@ -10,4 +10,7 @@ More text for the second clone to commit.
 Some edits made before merge.
 EXTRA
 MORE
+<<<<<<< Updated upstream
 MORE
+=======
+>>>>>>> Stashed changes
